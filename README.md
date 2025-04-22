@@ -7,9 +7,8 @@ This project focuses on visualizing the SuperStore sales dataset to extract mean
 ---
 
 ## 🛠️ Tools & Technologies
-- Python (Pandas, Matplotlib, Seaborn, Plotly)
-- Jupyter/Colab for data exploration
-- (Optional) Streamlit for interactive dashboards
+- Python (Pandas)
+- PowerBI for interactive dashboards
 
 ---
 
